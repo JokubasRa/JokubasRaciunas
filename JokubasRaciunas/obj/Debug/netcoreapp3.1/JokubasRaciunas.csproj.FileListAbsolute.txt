@@ -1,0 +1,13 @@
+C:\Users\Fond08\source\repos\JokubasRaciunas\JokubasRaciunas\bin\Debug\netcoreapp3.1\JokubasRaciunas.exe
+C:\Users\Fond08\source\repos\JokubasRaciunas\JokubasRaciunas\bin\Debug\netcoreapp3.1\JokubasRaciunas.deps.json
+C:\Users\Fond08\source\repos\JokubasRaciunas\JokubasRaciunas\bin\Debug\netcoreapp3.1\JokubasRaciunas.runtimeconfig.json
+C:\Users\Fond08\source\repos\JokubasRaciunas\JokubasRaciunas\bin\Debug\netcoreapp3.1\JokubasRaciunas.runtimeconfig.dev.json
+C:\Users\Fond08\source\repos\JokubasRaciunas\JokubasRaciunas\bin\Debug\netcoreapp3.1\JokubasRaciunas.dll
+C:\Users\Fond08\source\repos\JokubasRaciunas\JokubasRaciunas\bin\Debug\netcoreapp3.1\JokubasRaciunas.pdb
+C:\Users\Fond08\source\repos\JokubasRaciunas\JokubasRaciunas\obj\Debug\netcoreapp3.1\JokubasRaciunas.csprojAssemblyReference.cache
+C:\Users\Fond08\source\repos\JokubasRaciunas\JokubasRaciunas\obj\Debug\netcoreapp3.1\JokubasRaciunas.AssemblyInfoInputs.cache
+C:\Users\Fond08\source\repos\JokubasRaciunas\JokubasRaciunas\obj\Debug\netcoreapp3.1\JokubasRaciunas.AssemblyInfo.cs
+C:\Users\Fond08\source\repos\JokubasRaciunas\JokubasRaciunas\obj\Debug\netcoreapp3.1\JokubasRaciunas.csproj.CoreCompileInputs.cache
+C:\Users\Fond08\source\repos\JokubasRaciunas\JokubasRaciunas\obj\Debug\netcoreapp3.1\JokubasRaciunas.dll
+C:\Users\Fond08\source\repos\JokubasRaciunas\JokubasRaciunas\obj\Debug\netcoreapp3.1\JokubasRaciunas.pdb
+C:\Users\Fond08\source\repos\JokubasRaciunas\JokubasRaciunas\obj\Debug\netcoreapp3.1\JokubasRaciunas.genruntimeconfig.cache
