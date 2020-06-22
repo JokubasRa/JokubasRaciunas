@@ -6,7 +6,7 @@ namespace JokubasRaciunas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World to everyone!");
+            Console.WriteLine("Hello World");
             
         }
     }
